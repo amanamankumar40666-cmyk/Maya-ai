@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAYA AI</string>
+    <string name="notification_listener_label">MAYA Notification Reader</string>
+    <string name="accessibility_service_label">MAYA Smart Actions</string>
+    <string name="accessibility_service_desc">Allows MAYA AI to perform user-approved actions such as navigating back, returning home, or confirming UI send buttons on your request.</string>
+</resources>
